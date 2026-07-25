@@ -1,3 +1,4 @@
+
 this is my new project
 
 magenta pink
@@ -89,3 +90,6 @@ truck
 
 bike
 
+=======
+this is my
+>>>>>>> 01852fa (a)
